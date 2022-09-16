@@ -1,0 +1,14 @@
+{
+	"modules":[
+
+		{"id":"1101", "title":"HTML", "duration":1, "pricePerMonth":100000},
+		{"id":"1102","title":"JS intro", "duration":2, "pricePerMonth":150000},
+		{"id":"1103","title":"JS OOP", "duration":2, "pricePerMonth":150000},
+		{"id":"1104","title":"React", "duration":3, "pricePerMonth":120000},
+		{"id":"1105","title":"Redux", "duration":2, "pricePerMonth":90000},
+		{"id":"1106","title":"Vue", "duration":2, "pricePerMonth":170000},
+		{"id":"1107","title":"Angular", "duration":3, "pricePerMonth":120000},
+		{"id":"1108","title":"English", "duration":5, "pricePerMonth":50000},
+		{"id":"1109","title":"Node.js", "duration":4, "pricePerMonth":180000}
+	]
+}
